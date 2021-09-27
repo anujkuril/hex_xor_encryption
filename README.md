@@ -4,7 +4,7 @@ xor plain text using key to get hex ciphertext
 ```bash
     python3 xor.py
 ```
-	give it plain text and encryption key
+give it plain text and encryption key
 
 ## unbreakable encryption
 
